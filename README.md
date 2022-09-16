@@ -20,15 +20,29 @@ Event listeners grabs the user's form input and inputs into a formula to calcula
 - Reccomend the average dilution of all users using the site (based on drink style)
 ex. Most users diluting 'Stirred Rocks' drinks, dilute to '25%'
  
-## Other Projects:
-**Busboy:**  
-Busboy is a platform highlighting the stories, lessons, and advice from members of the hospitality industry.
-https://github.com/WilliamPasternak/busboy
-
-**Little Armenia:**  
-A responsive website for a local pop-up restaurant serving up authentic Armenian cuisine.  
-https://github.com/WilliamPasternak/Little-Armenia-Cafe
-
-**Movie Night:**  
-A fullstack web application utilizing The Movie Database's API. 
-https://github.com/WilliamPasternak/MovieNight
+## More Projects
+<table bordercolor="#66b2b2">
+  <tr>
+    <td width="33.3%"  style="align:center;" valign="top">
+<a target="_blank" href="https://github.com/WilliamPasternak/busboy">Busboy Site</a>
+        <br />
+      <a target="_blank" href="https://github.com/WilliamPasternak/busboy">
+            <img src="https://github.com/WilliamPasternak/busboy/blob/main/busyboy.gif" width="100%"  alt="Busbo.co"/>
+        </a>
+    </td>
+    <td width="33.3%" valign="top">
+<a target="_blank" href="https://github.com/WilliamPasternak/Little-Armenia-Cafe">Little Armenia Cafe Website</a> 
+      <br />
+        <a target="_blank" href="https://github.com/WilliamPasternak/Little-Armenia-Cafe">
+          <img src="https://github.com/WilliamPasternak/Little-Armenia-Cafe/blob/main/Little%20Armenia%20Cafe/LittleArmeniaCafecom_Site_Overview.gif" width="100%" alt="Matching Card Game"/>
+        </a>
+    </td>
+    <td width="33.3%" valign="top">
+<a target="_blank" href="https://github.com/WilliamPasternak/MovieNight">Movie Night Web App</a>
+        <br />
+        <a target="_blank" href="https://github.com/WilliamPasternak/MovieNight">
+          <img src="https://github.com/WilliamPasternak/MovieNight/blob/main/MovieNight%20Walkthrough.gif" width="100%" alt="Portfolio"/>
+        </a>
+    </td>
+  </tr>
+</table>
